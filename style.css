@@ -36,14 +36,33 @@
     text-align: center;
     padding: 1rem;
     margin: 1rem;
-   
+
+    color: rgb(127, 87, 12);
     box-shadow: black;
     border: 1px solid black;
     border-radius: 5px;
+    border-color: rgb(116, 116, 10);
     text-transform: uppercase;
     box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
+    box-shadow: 5px 2px rgb(116, 116, 10);
 }
 
 .text-center {
     text-align: center;
+    color:rgb(179, 10, 10);
+    font-style: oblique;
+    font-size:50px;
+    
 }
+
+body {
+  background-color:rgba(0, 0, 0, 0.177);
+
+}
+
+#note_title {
+  font-size: 35px;
+  font-style: oblique;
+  color: rgb(237, 84, 84);
+}
+ 
